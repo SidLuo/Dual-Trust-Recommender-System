@@ -1,0 +1,19 @@
+ 6.4794421792030334 0.836
+Iteration: 1                    Cost: 5.889763355255127      0.75992
+Iteration: 2                    Cost: 5.403008043766022      0.68711
+Iteration: 3                    Cost: 5.398983299732208      
+Iteration: 4                    Cost: 5.3987948298454285
+Iteration: 5                    Cost: 5.398791134357452
+Iteration: 6                    Cost: 5.398760437965393
+Iteration: 7                    Cost: 5.3987743854522705
+Iteration: 8                    Cost: 5.398748338222504
+Iteration: 9                    Cost: 5.3987637758255005
+Iteration: 10                    Cost: 5.398742139339447
+Iteration: 11                    Cost: 5.398762106895447
+Iteration: 12                    Cost: 5.398738503456116
+Iteration: 13                    Cost: 5.398754715919495
+Iteration: 14                    Cost: 5.398735702037811
+Iteration: 15                    Cost: 5.398756563663483
+Iteration: 16                    Cost: 5.398734033107758
+Iteration: 17                    Cost: 5.398750483989716
+Iteration: 18                    Cost: 5.398732542991638
